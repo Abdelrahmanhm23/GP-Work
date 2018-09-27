@@ -13,4 +13,4 @@ this file is under test right now
 * fix state transition error
 
 ```V1.2  - 16/7```
-* fix Pready timing problem (by Waleed Osama)
+* fix Pready timing problem (by ```Eng/Waleed Osama```)

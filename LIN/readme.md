@@ -9,6 +9,6 @@ The folder is arranged due to PULPino folder arrangment.
  * tb folder contains the PULPino testbench with LIN modules (Master and Slave).
  * vsim folder contains the edited version of some scripts to compile the LIN design and SW simulation.
 
-PS : credits goes to ```Eng/Sarah Aly``` for the implementation of All the LIN IP design file in verilog. 
+PS : credits goes to ```Eng/Sarah Aly``` for the implementation of All the LIN IP design files in verilog. 
 
 

@@ -14,3 +14,5 @@ Only the last version of this design (still under test) will be avilable here.
 
 ```V1.2  - 16/7```
 * fix Pready timing problem (by ```Eng/Waleed Osama```)
+
+<img src="./APB inetrconnect.png">
